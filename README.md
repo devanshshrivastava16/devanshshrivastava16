@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TrustSpace](https://github.com/devanshshrivastava16/TrustSpace)
 
-- 👨‍💻 All of my projects are available at [https://devanshshrivastava16.github.io/web/](https://devanshshrivastava16.github.io/web/)
+- 👨‍💻 All of my projects are available at [https://devanshshrivastava16.github.io/web/](https://devanshshrivastava16.github.io/portfolio/)
 
 - 📫 How to reach me **devanshshri16@gamil.com**
 

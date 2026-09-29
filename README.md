@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TrustSpace](https://trustspace.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://devanshshrivastava16.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://devanshshrivastava.me)
 
 - 📫 How to reach me **devanshshri16@gamil.com**
 
